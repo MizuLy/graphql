@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "firstName": "Liam",
+    "lastName": "Harrison",
+    "email": "liam.harrison@gmail.com",
+    "password": "Liam@1234"
+  },
+  {
+    "id": 2,
+    "firstName": "Sofia",
+    "lastName": "Martinez",
+    "email": "sofia.martinez@outlook.com",
+    "password": "Sofia@5678"
+  },
+  {
+    "id": 3,
+    "firstName": "Noah",
+    "lastName": "Thompson",
+    "email": "noah.thompson@yahoo.com",
+    "password": "Noah@9012"
+  },
+  {
+    "id": 4,
+    "firstName": "Aisha",
+    "lastName": "Okonkwo",
+    "email": "aisha.okonkwo@proton.me",
+    "password": "Aisha@3456"
+  },
+  {
+    "id": 5,
+    "firstName": "Ethan",
+    "lastName": "Chen",
+    "email": "ethan.chen@gmail.com",
+    "password": "Ethan@7890"
+  },
+  {
+    "id": 6,
+    "firstName": "Isabelle",
+    "lastName": "Dupont",
+    "email": "isabelle.dupont@free.fr",
+    "password": "Isa@2345"
+  },
+  {
+    "id": 7,
+    "firstName": "Mohammed",
+    "lastName": "Al-Rashid",
+    "email": "m.alrashid@hotmail.com",
+    "password": "Mo@6789"
+  },
+  {
+    "id": 8,
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "email": "priya.sharma@gmail.com",
+    "password": "Priya@1357"
+  },
+  {
+    "id": 9,
+    "firstName": "Lucas",
+    "lastName": "Oliveira",
+    "email": "lucas.oliveira@uol.com.br",
+    "password": "Lucas@2468"
+  },
+  {
+    "id": 10,
+    "firstName": "Emma",
+    "lastName": "Johansson",
+    "email": "emma.johansson@gmail.com",
+    "password": "Emma@1122"
+  },
+  {
+    "id": 11,
+    "firstName": "James",
+    "lastName": "Kimani",
+    "email": "james.kimani@gmail.com",
+    "password": "James@3344"
+  },
+  {
+    "id": 12,
+    "firstName": "Yuki",
+    "lastName": "Tanaka",
+    "email": "yuki.tanaka@docomo.ne.jp",
+    "password": "Yuki@5566"
+  },
+  {
+    "id": 13,
+    "firstName": "Carlos",
+    "lastName": "Ramirez",
+    "email": "carlos.ramirez@gmail.com",
+    "password": "Carlos@7788"
+  },
+  {
+    "id": 14,
+    "firstName": "Amelia",
+    "lastName": "Walker",
+    "email": "amelia.walker@icloud.com",
+    "password": "Amelia@9900"
+  },
+  {
+    "id": 15,
+    "firstName": "Oliver",
+    "lastName": "Müller",
+    "email": "oliver.mueller@web.de",
+    "password": "Oliver@1212"
+  },
+  {
+    "id": 16,
+    "firstName": "Fatima",
+    "lastName": "Zahra",
+    "email": "fatima.zahra@gmail.com",
+    "password": "Fatima@3434"
+  },
+  {
+    "id": 17,
+    "firstName": "William",
+    "lastName": "Scott",
+    "email": "will.scott@gmail.com",
+    "password": "Will@5656"
+  },
+  {
+    "id": 18,
+    "firstName": "Mei",
+    "lastName": "Lin",
+    "email": "mei.lin@gmail.com",
+    "password": "Mei@7878"
+  },
+  {
+    "id": 19,
+    "firstName": "Samuel",
+    "lastName": "Mensah",
+    "email": "samuel.mensah@yahoo.com",
+    "password": "Sam@9090"
+  },
+  {
+    "id": 20,
+    "firstName": "Hannah",
+    "lastName": "Brown",
+    "email": "hannah.brown@outlook.com",
+    "password": "Hannah@1313"
+  },
+  {
+    "id": 21,
+    "firstName": "Aleksei",
+    "lastName": "Petrov",
+    "email": "aleksei.petrov@mail.ru",
+    "password": "Alek@2424"
+  },
+  {
+    "id": 22,
+    "firstName": "Valentina",
+    "lastName": "Rossi",
+    "email": "valentina.rossi@gmail.com",
+    "password": "Vale@3535"
+  },
+  {
+    "id": 23,
+    "firstName": "Tariq",
+    "lastName": "Hassan",
+    "email": "tariq.hassan@gmail.com",
+    "password": "Tariq@4646"
+  },
+  {
+    "id": 24,
+    "firstName": "Chloe",
+    "lastName": "Dubois",
+    "email": "chloe.dubois@gmail.com",
+    "password": "Chloe@5757"
+  },
+  {
+    "id": 25,
+    "firstName": "Diego",
+    "lastName": "Fernandez",
+    "email": "diego.fernandez@gmail.com",
+    "password": "Diego@6868"
+  },
+  {
+    "id": 26,
+    "firstName": "Nadia",
+    "lastName": "Kowalski",
+    "email": "nadia.kowalski@wp.pl",
+    "password": "Nadia@7979"
+  },
+  {
+    "id": 27,
+    "firstName": "Kwame",
+    "lastName": "Asante",
+    "email": "kwame.asante@gmail.com",
+    "password": "Kwame@8080"
+  },
+  {
+    "id": 28,
+    "firstName": "Lily",
+    "lastName": "Zhang",
+    "email": "lily.zhang@gmail.com",
+    "password": "Lily@9191"
+  },
+  {
+    "id": 29,
+    "firstName": "Hassan",
+    "lastName": "Ibrahim",
+    "email": "hassan.ibrahim@gmail.com",
+    "password": "Hassan@1020"
+  },
+  {
+    "id": 30,
+    "firstName": "Astrid",
+    "lastName": "Larsen",
+    "email": "astrid.larsen@gmail.com",
+    "password": "Astrid@3040"
+  },
+  {
+    "id": 31,
+    "firstName": "Ravi",
+    "lastName": "Patel",
+    "email": "ravi.patel@gmail.com",
+    "password": "Ravi@5060"
+  },
+  {
+    "id": 32,
+    "firstName": "Nina",
+    "lastName": "Volkov",
+    "email": "nina.volkov@gmail.com",
+    "password": "Nina@7080"
+  },
+  {
+    "id": 33,
+    "firstName": "Elijah",
+    "lastName": "Johnson",
+    "email": "elijah.johnson@gmail.com",
+    "password": "Eli@9010"
+  },
+  {
+    "id": 34,
+    "firstName": "Zara",
+    "lastName": "Ahmed",
+    "email": "zara.ahmed@outlook.com",
+    "password": "Zara@1230"
+  },
+  {
+    "id": 35,
+    "firstName": "Henrik",
+    "lastName": "Nielsen",
+    "email": "henrik.nielsen@gmail.com",
+    "password": "Henrik@3450"
+  },
+  {
+    "id": 36,
+    "firstName": "Chiara",
+    "lastName": "Ferrari",
+    "email": "chiara.ferrari@gmail.com",
+    "password": "Chiara@5670"
+  },
+  {
+    "id": 37,
+    "firstName": "Kofi",
+    "lastName": "Boateng",
+    "email": "kofi.boateng@gmail.com",
+    "password": "Kofi@7890"
+  },
+  {
+    "id": 38,
+    "firstName": "Maya",
+    "lastName": "Patel",
+    "email": "maya.patel@gmail.com",
+    "password": "Maya@2345"
+  },
+  {
+    "id": 39,
+    "firstName": "Dimitri",
+    "lastName": "Stavros",
+    "email": "dimitri.stavros@gmail.com",
+    "password": "Dimi@4567"
+  },
+  {
+    "id": 40,
+    "firstName": "Ingrid",
+    "lastName": "Svensson",
+    "email": "ingrid.svensson@gmail.com",
+    "password": "Ingrid@6789"
+  },
+  {
+    "id": 41,
+    "firstName": "Mateo",
+    "lastName": "Garcia",
+    "email": "mateo.garcia@gmail.com",
+    "password": "Mateo@8901"
+  },
+  {
+    "id": 42,
+    "firstName": "Hana",
+    "lastName": "Kim",
+    "email": "hana.kim@naver.com",
+    "password": "Hana@1234"
+  },
+  {
+    "id": 43,
+    "firstName": "Omar",
+    "lastName": "Suleiman",
+    "email": "omar.suleiman@gmail.com",
+    "password": "Omar@3456"
+  },
+  {
+    "id": 44,
+    "firstName": "Beatrice",
+    "lastName": "Mbeki",
+    "email": "beatrice.mbeki@gmail.com",
+    "password": "Bea@5678"
+  },
+  {
+    "id": 45,
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "email": "arjun.nair@gmail.com",
+    "password": "Arjun@7890"
+  },
+  {
+    "id": 46,
+    "firstName": "Elena",
+    "lastName": "Popescu",
+    "email": "elena.popescu@gmail.com",
+    "password": "Elena@9012"
+  },
+  {
+    "id": 47,
+    "firstName": "Patrick",
+    "lastName": "O'Brien",
+    "email": "patrick.obrien@gmail.com",
+    "password": "Pat@1357"
+  },
+  {
+    "id": 48,
+    "firstName": "Rin",
+    "lastName": "Nakamura",
+    "email": "rin.nakamura@gmail.com",
+    "password": "Rin@2468"
+  },
+  {
+    "id": 49,
+    "firstName": "Adrian",
+    "lastName": "Moreau",
+    "email": "adrian.moreau@gmail.com",
+    "password": "Adrian@3579"
+  },
+  {
+    "id": 50,
+    "firstName": "Grace",
+    "lastName": "Wanjiku",
+    "email": "grace.wanjiku@gmail.com",
+    "password": "Grace@4680"
+  }
+]
